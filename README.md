@@ -3,7 +3,9 @@
 An end-to-end AI-powered lead management and conversion automation system built with **n8n, Gemini AI, Google Sheets, Gmail, Setmore, REST APIs, and webhooks**.
 
 ## 📌 Project Overview
+## 📸 Workflow Overview
 
+![AI Real Estate Lead Automation](REAL%20ESTATE%20WORKFLOW.png)
 This project automates the real estate lead journey from initial inquiry through qualification, agent routing, follow-up, and appointment booking.
 
 The system is designed to reduce manual lead handling, improve response speed, keep CRM information updated, and prevent unnecessary follow-ups.
@@ -48,3 +50,4 @@ AI Automation Engineer specializing in:
 ---
 
 ⭐ This project is part of my AI automation portfolio.
+
